@@ -12,6 +12,9 @@
 		- Current limitations:
 		  - Will not parse spaces, so removes them
 		  
+		- Usage:
+		  - TagAPI.Parse(taggoeshere), returns dictionary of dictionaries/tables/strings
+		  
 		--// Please credit! //--
 		  
 	]]--
